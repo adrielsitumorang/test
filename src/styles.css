@@ -1,0 +1,30 @@
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image {
+  text-align: center;
+}
+
+.image img {
+  max-width: 400px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+.note1 {
+  margin-top: 10px;
+  font-size: 18px;
+  color: red;
+}
+
+.note2 {
+    margin-top: 10px;
+    font-size: 18px;
+    color: blue;
+  }
+
+
+
